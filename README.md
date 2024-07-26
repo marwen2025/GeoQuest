@@ -4,14 +4,14 @@ Welcome to GeoQuest, an immersive augmented reality (AR) game that combines real
 # Table of Contents
 - Introduction
 - Gameplay Features
-* Initial Setup
-* Exploring the Real World
-* AR Question Scene
-* Progress and Leaderboards
-* Joining Challenges
-* Creating Challenges
-* Example Gameplay Flow
-* Game Objective
+  - Initial Setup
+  - Exploring the Real World
+  - AR Question Scene
+  - Progress and Leaderboards
+  - Joining Challenges
+  - Creating Challenges
+- Example Gameplay Flow
+- Game Objective
 - Technologies Used
 - Installation
 - Contact
