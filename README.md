@@ -14,13 +14,12 @@ Welcome to GeoQuest, an immersive augmented reality (AR) game that combines real
 - Game Objective
 - Technologies Used
 - Installation
-- Contact
 - License
-Introduction
+# Introduction
 GeoQuest is a unique AR game that encourages players to explore their surroundings while engaging in educational challenges. Players interact with virtual questioners, answer questions on various topics, and participate in challenges to earn experience points (XP) and level up.
 
-Gameplay Features
-Initial Setup
+# Gameplay Features
+  # Initial Setup
 Sign-Up/Log-In: Players begin by signing up or logging into the game, setting up their profiles, creating a unique username, and customizing their avatars.
 Exploring the Real World
 Map View: Using the Mapbox SDK, players view a map of their current location, with markers indicating questioners and challenges.
