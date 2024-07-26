@@ -57,7 +57,7 @@ GeoQuest is designed to encourage exploration and learning. Players navigate rea
 - Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/geoquest.git
+git clone https://github.com/marwen2025/geoquest.git
 cd geoquest
 - Open the project in Unity.
 - Set up necessary API keys for MapBox and Azure PlayFab in the Unity editor.
